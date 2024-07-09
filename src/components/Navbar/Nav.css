@@ -1,0 +1,14 @@
+nav{
+    background-color: #fff;
+    box-shadow: 3px 3px 30px #eac4c4b7;
+}
+.active_item{
+    color: #FF7163;
+}
+.pending_item{
+    color: #000;
+}
+nav ul li a{
+    padding: 0 10px;
+    text-decoration: none;
+}
